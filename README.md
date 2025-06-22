@@ -1,7 +1,7 @@
 <h1>Olá, sou José Carlos!👋</h1>
 
   <ul>
-    <li>💻 Desenvolvedor Front End</li>
+    <li>💻 Desenvolvedor Fullstack</li>
     <li>👨‍🎓 Graduando em ADS(Análise e Desenvolvimento de Sistemas)</li>
     <li>📩 Email: zecarlosnetodantas@gmail.com</li>
   </ul>
