@@ -2,7 +2,7 @@
 
   <ul>
     <li>💻 Desenvolvedor Fullstack</li>
-    <li>👨‍🎓 Graduando em ADS(Análise e Desenvolvimento de Sistemas)</li>
+    <li>👨‍🎓 Sistemas de Informação - IFBA</li>
     <li>📩 Email: zecarlosnetodantas@gmail.com</li>
   </ul>
   <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-neto-b15295252/?trk=opento_sprofile_topcard"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img></a>
