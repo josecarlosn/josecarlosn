@@ -1,4 +1,4 @@
-<h1>Olá, sou José Carlos!👋</h1>
+<h1>Olá, sou José!👋</h1>
 
   <ul>
     <li>💻 Desenvolvedor Fullstack</li>
